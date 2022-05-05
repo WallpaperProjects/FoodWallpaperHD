@@ -31,13 +31,13 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Main Coursess",
+      "name_category": "Main Courses",
       "image": "https://i.pinimg.com/564x/e8/82/64/e88264328fd6a8bebc30040d7754cda1.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Dessertss",
+      "name_category": "Desserts",
       "image": "https://i.pinimg.com/564x/40/22/0c/40220c6aa1ba3c9a902628f616a99dc0.jpg"
     },
     {
@@ -226,7 +226,7 @@
 		{
 		"id"	:	29,
 		"name_category"	:	"Desserts",
-		"title"	:	"Main Courses Wallpaper",
+		"title"	:	"Desserts Wallpaper",
 		"image"	:	"https://i.pinimg.com/564x/3e/8a/24/3e8a24bafd505cd8ae9b6b420f99236c.jpg"
 		},
 		{
@@ -238,7 +238,7 @@
 		{
 		"id"	:	31,
 		"name_category"	:	"Desserts",
-		"title"	:	"Main Courses Wallpaper",
+		"title"	:	"Desserts Wallpaper",
 		"image"	:	"https://i.pinimg.com/564x/e1/bb/02/e1bb02bdc930a46544c8afe98baa072c.jpg"
 		},
 		{
