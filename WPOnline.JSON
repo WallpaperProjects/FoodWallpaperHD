@@ -468,19 +468,6 @@
 		"name_category"	:	"Fruits & Vegetables",
 		"title"	:	"Fruits Vegetables Wallpaper",
 		"image"	:	"https://i.pinimg.com/564x/d2/1f/52/d21f52cc5194c1ab71aab9886bd8a3a7.jpg"
-		},
-		{
-		"id"	:	70,
-		"name_category"	:	"Fruits & Vegetables",
-		"title"	:	"Fruits & Vegetables Wallpaper",
-		"image"	:	"https://i.pinimg.com/564x/61/4a/d4/614ad4995482c928c555cf2f74363820.jpg"
-		},
-		{
-		"id"	:	71,
-		"name_category"	:	"Fruits & Vegetables",
-		"title"	:	"Fruits & Vegetables Wallpaper",
-		"image"	:	"https://i.pinimg.com/564x/76/e4/75/76e47580c6901868c551456fe084ade6.jpg"
-		
-	
+		}	
   ]
 }
