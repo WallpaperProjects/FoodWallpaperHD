@@ -1,30 +1,30 @@
 {"Ads": [
-  {
-    "select_main_ads": "ADMOB",
-    "select_backup_ads":"APPLOVIN-M",
-    "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-    "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-    "backup_ads_banner":"db4d5e8718b97d78",
-    "backup_ads_intertitial":"518cd97722c60b52",
-    "interval_intertitial": 1,
-    "initialize_sdk":"107355779",
-    "initialize_sdk_backup_ads":"",
-    "high_paying_keyword_1": "",
-    "high_paying_keyword_2": "",
-    "high_paying_keyword_3": "",
-    "high_paying_keyword_4": "",
-    "high_paying_keyword_5": "",
-    "status_app": "0",
-    "link_redirect": "https://"
-  }
-],
-  "More":
-  [
     {
-      "id": 1,
-      "title":  "",
-      "image":  "",
-      "link": ""
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+	{
+      "id"		: 1,
+      "title"	:	"",
+      "image"	:	"",
+      "link"	:	""
     }
   ],
 
@@ -32,23 +32,23 @@
     {
       "id": 1,
       "name_category": "Main Courses",
-      "image": "https://i.pinimg.com/564x/52/f2/33/52f2331b5b272ff55eb390ffe28d510b.jpg"
+      "image": "https://i.pinimg.com/564x/e8/82/64/e88264328fd6a8bebc30040d7754cda1.jpg"
 
     },
     {
       "id": 2,
       "name_category": "Desserts",
-      "image": "https://i.pinimg.com/564x/7a/d4/c4/7ad4c412fe80f85988ab52315e237db3.jpg"
+      "image": "https://i.pinimg.com/564x/40/22/0c/40220c6aa1ba3c9a902628f616a99dc0.jpg"
     },
     {
       "id": 3,
       "name_category": "Drinks",
-      "image": "https://i.pinimg.com/564x/b8/bb/51/b8bb51eb0f561fb4ec73bbba2bd89060.jpg"
+      "image": "https://i.pinimg.com/564x/35/32/e3/3532e34cf71f3068cac65812cd491f0f.jpg"
     },
     {
       "id": 4,
       "name_category": "Fruits & Vegetables",
-      "image": "https://i.pinimg.com/564x/35/c9/f7/35c9f72f13e232dbae9b9f0b13b8a026.jpg"
+      "image": "https://i.pinimg.com/564x/35/32/e3/3532e34cf71f3068cac65812cd491f0f.jpg"
     }
 
   ],
@@ -466,7 +466,7 @@
 		{
 		"id"	:	69,
 		"name_category"	:	"Fruits & Vegetables",
-		"title"	:	"Fruits Vegetables Wallpaper",
+		"title"	:	"Fruits & Vegetables Wallpaper",
 		"image"	:	"https://i.pinimg.com/564x/d2/1f/52/d21f52cc5194c1ab71aab9886bd8a3a7.jpg"
 		},
 		{
@@ -545,7 +545,46 @@
 		"id"	:	82,
 		"name_category"	:	"Fruits & Vegetables",
 		"title"	:	"Fruits & Vegetables Wallpaper",
-		"image"	:	"https://i.pinimg.com/564x/11/f3/18/11f3182ea47a03c55d828bca945f2fad.jpg
-		}		
+		"image"	:	"https://i.pinimg.com/564x/11/f3/18/11f3182ea47a03c55d828bca945f2fad.jpg"
+		},
+		{
+		"id"	:	83,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/be/a9/4b/bea94b0bce3e79e31de7cbd73cce4eae.jpg"
+		},
+		{
+		"id"	:	84,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/df/dc/d5/dfdcd5608ba5517e4efb8ebeea0ea277.jpg"
+		},
+		{
+		"id"	:	85,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/d6/e6/93/d6e693a461dee816720d67286a8c19d2.jpg"
+		},
+		{
+		"id"	:	86,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/99/e6/23/99e623b540cb1ff592b1224785e15362.jpg"
+		},
+		{
+		"id"	:	87,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/64/47/fa/6447fa42333538dc9dcaecb26aded523.jpg"
+		},
+		{
+		"id"	:	88,
+		"name_category"	:	"Fruits & Vegetables",
+		"title"	:	"Fruits & Vegetables Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/5b/49/65/5b49656c4f1d90090bb692acf83347c0.jpg"
+		}
+
+
+
   ]
 }
