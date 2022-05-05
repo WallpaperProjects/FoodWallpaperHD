@@ -1,13 +1,13 @@
 {"Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial": "ca-app-pub-3940256099942544/8691691433",
-      "backup_ads_banner": "db4d5e8718b97d78",
-      "backup_ads_intertitial": "518cd97722c60b52",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 1,
-      "initialize_sdk": "107355779",
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -18,82 +18,182 @@
       "link_redirect": "https://"
     }
   ],
-    "Categories": [
+    "More":
+  [
+	{
+      "id"		: 1,
+      "title"	:	"",
+      "image"	:	"",
+      "link"	:	""
+    }
+  ],
+
+  "Categories": [
     {
       "id": 1,
-      "name_category": "Huggy Wuggy",
-      "image": "https://servisacjakartatimur.com/json/huggy/1.jpg"
+      "name_category": "Main Course",
+      "image": "https://i.pinimg.com/564x/e8/82/64/e88264328fd6a8bebc30040d7754cda1.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Poke Ball",
-      "image": "https://i.pinimg.com/564x/4c/88/32/4c88327a37a59b564be167f66b0fb7c7.jpg"
+      "name_category": "Desserts",
+      "image": "file:///android_asset/category/lamborghini.jpg"
     }
   ],
 
   "Data":
   [
-		{		
+		{
 		"id"	:	1,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/1.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/e8/82/64/e88264328fd6a8bebc30040d7754cda1.jpg"
+		},
+		{
 		"id"	:	2,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/2.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/af/5a/00/af5a00fe5c6f00ac52f33741a01e6f57.jpg"
+		},
+		{
 		"id"	:	"3",
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/3.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/24/f8/33/24f8330f8159aa5d2d6c999b8cf7fb62.jpg"
+		},
+		{
 		"id"	:	4,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/4.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/9b/c4/6a/9bc46a1600f1cfbde4f87398ecfa4be2.jpg"
+		},
+		{
 		"id"	:	5,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/5.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/da/79/dc/da79dc69d7030bcfa62c60c249e68b47.jpg"
+		},
+		{
 		"id"	:	6,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/6.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/b0/43/a7/b043a73113d2613474a4bfb162a4e7a0.jpg"
+		},
+		{
 		"id"	:	7,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/7.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/f9/d1/6a/f9d16a6b5591f28b9f3950d4d29860a0.jpg"
+		},
+		{
 		"id"	:	8,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/8.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/97/0a/ee/970aeeac583d3357c38fbbbc11702b11.jpg"
+		},
+		{
 		"id"	:	9,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/9.jpg"
-		},		
-		{		
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/24/f6/6d/24f66d043740b751ce324b3445e6c873.jpg"
+		},
+		{
 		"id"	:	10,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/10.jpg"
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/cd/d6/4e/cdd64e9a77cb672fc03aef1e93d457b5.jpg"
+		},
+		{
+		"id"	:	11,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/ce/17/6f/ce176fec89342d9d2d17cfbcc4462871.jpg"
+		},
+		{
+		"id"	:	12,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/75/bd/50/75bd50633fa47d9f9f18333e32e495c1.jpg"
+		},
+		{
+		"id"	:	13,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/97/79/e4/9779e4b50ac064a60f1b5c281ec2b266.jpg"
+		},
+		{
+		"id"	:	14,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/1a/7b/ef/1a7bef383a4a0c9b5ce06441740c7099.jpg"
+		},
+		{
+		"id"	:	15,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/01/52/5a/01525a185cd073c73bca805b7f23808b.jpg"
+		},
+		{
+		"id"	:	16,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/38/9b/6a/389b6ab550fe54b17559afb4f75c1774.jpg"
+		},
+		{
+		"id"	:	17,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/78/30/f1/7830f1caf2c998fb29831f433e12e2b3.jpg"
+		},
+		{
+		"id"	:	18,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/73/fd/b8/73fdb8c5fc4f203a11fb884e60d96689.jpg"
+		},
+		{
+		"id"	:	19,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/cf/a8/99/cfa899111b6823f3987592311127002c.jpg"
+		},
+		{
+		"id"	:	20,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/96/31/aa/9631aa8fbf236291f225fd967e9b46fa.jpg"
+		},
+		{
+		"id"	:	21,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/43/ac/89/43ac8954a71de25811809be71df8bd15.jpg"
+		},
+		{
+		"id"	:	22,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/e9/fd/78/e9fd78764cc1b3bdeca4b97573e56bd1.jpg"
+		},
+		{
+		"id"	:	23,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/60/56/7a/60567a1e0b58c079d7762061b2a8a908.jpg"
+		},
+		{
+		"id"	:	24,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/f9/16/64/f91664e6d909e8826ff9b2f989b9ccac.jpg"
+		},
+		{
+		"id"	:	25,
+		"name_category"	:	"Main Course",
+		"title"	:	"Main Course Wallpaper",
+		"image"	:	"https://i.pinimg.com/564x/37/22/e6/3722e602cae2587d77e19c71da1dfd0f.jpg"
 		}		
-	
+
   ]
 }
